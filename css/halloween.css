@@ -1,0 +1,108 @@
+/*Aureliana*/
+
+body{background-color: #0000CD;} 
+p{text-align: justify;}
+
+/*inicio O QUE FAZEMOS*/
+.text_A{text-align: center;
+color:#0000CD;}
+
+
+/*titulo menor*/
+.text_B{text-align: center;
+color: black;}
+.text_C{text-align: center;
+color:red;}
+.text_D{text-align: center;
+color: blue;}
+
+
+
+
+/*FIM O QUE FZEMOS*/
+
+/* inicio sobre o evento*/
+.part1{background-color: black;
+color:#0000CD;
+border: solid;
+font-family: Century Schoolbook L;}
+
+
+/*fim sobre o evento*/
+
+
+
+/*inicio equipe*/
+
+.part2{background-color:#0000CD;
+border: solid 2px black;}
+/*fim da equipe*/
+
+
+
+
+.text_E{border: solid 2px black;
+text-align: center;}
+
+
+
+
+.text1{text-align: center;
+color: black;}
+
+
+
+
+
+/*rodape*/
+
+.text_F{border: 2px black;
+color: #FFF;
+background-color: black;
+text-align: center;}
+
+
+/*posts*/
+
+.data1{text-align: center;
+padding: 10px;
+color: #0000CD;
+background: black;}
+
+
+.data2{text-align: justify;
+color: black;
+font-size:200%;
+font-family: }
+
+.data3{text-align: justify;
+color: black;}
+
+
+
+
+.dataA{text-align: center;}
+
+
+.borda_iden{border: solid 2px;
+color: black;
+border-radius: 2px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
